@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>.label {&#13;
+  font-weight: normal !important;&#13;
+  font-size: 12px !important;&#13;
+}&#13;
+&#13;
+[accessibility="true"] {&#13;
+  a {&#13;
+    &amp;:hover {&#13;
+      text-decoration: underline !important;&#13;
+    }&#13;
+    &amp;:focus {&#13;
+      text-decoration: underline !important;&#13;
+    }&#13;
+  }&#13;
+  .sp-announcement-root {&#13;
+    a {&#13;
+      text-decoration: underline !important;&#13;
+    }&#13;
+  }&#13;
+  [uib-rating] {&#13;
+    .glyphicon-star {&#13;
+      color: black !important;&#13;
+    }&#13;
+  }&#13;
+  input::-webkit-input-placeholder {&#13;
+    color: $accessible-placeholder-gray !important;&#13;
+  }&#13;
+  input::-moz-placeholder {&#13;
+    color: $accessible-placeholder-gray !important;&#13;
+  }&#13;
+  input:-ms-input-placeholder {&#13;
+    color: $accessible-placeholder-gray !important;&#13;
+  }&#13;
+}&#13;
+&#13;
+button:focus {&#13;
+  outline: none;&#13;
+  border: 1px solid $input-border-focus;&#13;
+  -webkit-box-shadow: 0px 0px 5px $input-border-focus;&#13;
+  box-shadow: 0px 0px 5px $input-border-focus;&#13;
+}&#13;
+&#13;
+[tabindex]:focus {&#13;
+  outline: none;&#13;
+  border: 1px solid $input-border-focus;&#13;
+  -webkit-box-shadow: 0px 0px 5px $input-border-focus;&#13;
+  box-shadow: 0px 0px 5px $input-border-focus;&#13;
+}&#13;
+&#13;
+.navbar-nav {&#13;
+  .open {&#13;
+    a {&#13;
+      .label {&#13;
+        background-color: $navbar-inverse-link-hover-color;&#13;
+        color: $brand-primary;&#13;
+      }&#13;
+    }&#13;
+  }&#13;
+  li {&#13;
+    a:hover, a:focus {&#13;
+      .label {&#13;
+        background-color: $navbar-inverse-link-hover-color;&#13;
+        color: $brand-primary;&#13;
+      }&#13;
+    }&#13;
+  }&#13;
+}&#13;
+&#13;
+.panel-primary {&#13;
+  .label {&#13;
+    background-color: #F5F5F5;&#13;
+    border: 1px solid #dcdcdc;&#13;
+    color: #2E2E2E;&#13;
+  }&#13;
+}&#13;
+&#13;
+.breadcrumbs-container {&#13;
+  background-color: #f0f3f4 !important;&#13;
+}&#13;
+&#13;
+.timeline-badge {&#13;
+  &amp;.success {&#13;
+    background-color: $brand-success !important;&#13;
+  }&#13;
+}&#13;
+&#13;
+.select2-results {&#13;
+  .select2-highlighted {&#13;
+    background: $brand-primary !important;&#13;
+  }&#13;
+}&#13;
+&#13;
+.CodeMirror-linenumber {&#13;
+  color: #4c4c4c !important;&#13;
+}&#13;
+&#13;
+.help-block {&#13;
+  color: #545454 !important;&#13;
+}&#13;
+&#13;
+.selected {&#13;
+  background-color: #707070;&#13;
+}&#13;
+&#13;
+@media (max-width: 767px) {&#13;
+  .navbar-inverse .navbar-nav .open .dropdown-menu&gt;li&gt;a {&#13;
+    .text-muted {&#13;
+      color: $navbar-inverse-link-color !important;&#13;
+    }&#13;
+  }&#13;
+}&#13;
+&#13;
+// Panel footer is a light gray background, so text color should be dark.&#13;
+.panel-footer {&#13;
+  color: #515151 !important;&#13;
+}&#13;
+</css>
+        <name>react-sp-theme-stock-high-contrast.css</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 22:28:38</sys_created_on>
+        <sys_id>3101b0cadb221c1058317a2faa96193f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>react-sp-theme-stock-high-contrast.css</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_css_3101b0cadb221c1058317a2faa96193f</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 22:28:45</sys_updated_on>
+    </sp_css>
+</record_update>

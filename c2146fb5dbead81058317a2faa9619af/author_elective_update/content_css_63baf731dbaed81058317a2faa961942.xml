@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="DELETE">
+        <name>React_Demo_2_3.js</name>
+        <style>!function(e){function r(r){for(var n,l,a=r[0],f=r[1],i=r[2],p=0,s=[];p&lt;a.length;p++)l=a[p],Object.prototype.hasOwnProperty.call(o,l)&amp;&amp;o[l]&amp;&amp;s.push(o[l][0]),o[l]=0;for(n in f)Object.prototype.hasOwnProperty.call(f,n)&amp;&amp;(e[n]=f[n]);for(c&amp;&amp;c(r);s.length;)s.shift()();return u.push.apply(u,i||[]),t()}function t(){for(var e,r=0;r&lt;u.length;r++){for(var t=u[r],n=!0,a=1;a&lt;t.length;a++){var f=t[a];0!==o[f]&amp;&amp;(n=!1)}n&amp;&amp;(u.splice(r--,1),e=l(l.s=t[0]))}return e}var n={},o={1:0},u=[];function l(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,l),t.l=!0,t.exports}l.m=e,l.c=n,l.d=function(e,r,t){l.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},l.r=function(e){"undefined"!=typeof Symbol&amp;&amp;Symbol.toStringTag&amp;&amp;Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},l.t=function(e,r){if(1&amp;r&amp;&amp;(e=l(e)),8&amp;r)return e;if(4&amp;r&amp;&amp;"object"==typeof e&amp;&amp;e&amp;&amp;e.__esModule)return e;var t=Object.create(null);if(l.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&amp;r&amp;&amp;"string"!=typeof e)for(var n in e)l.d(t,n,function(r){return e[r]}.bind(null,n));return t},l.n=function(e){var r=e&amp;&amp;e.__esModule?function(){return e.default}:function(){return e};return l.d(r,"a",r),r},l.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},l.p="/";var a=this.webpackJsonpreact_demo_2=this.webpackJsonpreact_demo_2||[],f=a.push.bind(a);a.push=r,a=a.slice();for(var i=0;i&lt;a.length;i++)r(a[i]);var c=f;t()}([])</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 18:31:27</sys_created_on>
+        <sys_id>63baf731dbaed81058317a2faa961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>React_Demo_2_3.js</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>content_css_63baf731dbaed81058317a2faa961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 18:31:27</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="React Demo">c2146fb5dbead81058317a2faa9619af</application>
+        <file_path/>
+        <instance_id>a1fc2553db8858d0406350b6f4961917</instance_id>
+        <instance_name>empdstubblefield1</instance_name>
+        <name>content_css_63baf731dbaed81058317a2faa961942</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css"><content_css action="INSERT_OR_UPDATE"><name>React_Demo_2_3.js</name><style>!function(e){function r(r){for(var n,l,a=r[0],f=r[1],i=r[2],p=0,s=[];p&lt;a.length;p++)l=a[p],Object.prototype.hasOwnProperty.call(o,l)&amp;&amp;o[l]&amp;&amp;s.push(o[l][0]),o[l]=0;for(n in f)Object.prototype.hasOwnProperty.call(f,n)&amp;&amp;(e[n]=f[n]);for(c&amp;&amp;c(r);s.length;)s.shift()();return u.push.apply(u,i||[]),t()}function t(){for(var e,r=0;r&lt;u.length;r++){for(var t=u[r],n=!0,a=1;a&lt;t.length;a++){var f=t[a];0!==o[f]&amp;&amp;(n=!1)}n&amp;&amp;(u.splice(r--,1),e=l(l.s=t[0]))}return e}var n={},o={1:0},u=[];function l(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,l),t.l=!0,t.exports}l.m=e,l.c=n,l.d=function(e,r,t){l.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},l.r=function(e){"undefined"!=typeof Symbol&amp;&amp;Symbol.toStringTag&amp;&amp;Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},l.t=function(e,r){if(1&amp;r&amp;&amp;(e=l(e)),8&amp;r)return e;if(4&amp;r&amp;&amp;"object"==typeof e&amp;&amp;e&amp;&amp;e.__esModule)return e;var t=Object.create(null);if(l.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&amp;r&amp;&amp;"string"!=typeof e)for(var n in e)l.d(t,n,function(r){return e[r]}.bind(null,n));return t},l.n=function(e){var r=e&amp;&amp;e.__esModule?function(){return e.default}:function(){return e};return l.d(r,"a",r),r},l.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},l.p="/";var a=this.webpackJsonpreact_demo_2=this.webpackJsonpreact_demo_2||[],f=a.push.bind(a);a.push=r,a=a.slice();for(var i=0;i&lt;a.length;i++)r(a[i]);var c=f;t()}([])</style><sys_class_name>content_css</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-11 18:31:27</sys_created_on><sys_id>63baf731dbaed81058317a2faa961942</sys_id><sys_mod_count>0</sys_mod_count><sys_name>React_Demo_2_3.js</sys_name><sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package><sys_policy/><sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope><sys_update_name>content_css_63baf731dbaed81058317a2faa961942</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-11 18:31:27</sys_updated_on><type>local</type><url/></content_css></record_update>]]></payload>
+        <payload_hash>-1531388284</payload_hash>
+        <record_name>React_Demo_2_3.js</record_name>
+        <reverted_from/>
+        <source>8a142bbddb2ed81058317a2faa961974</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 18:31:27</sys_created_on>
+        <sys_id>abbaf731dbaed81058317a2faa961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173deca9fee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 18:31:27</sys_updated_on>
+        <type>Style Sheet</type>
+        <update_guid>e3baf731e9aed81033b57d5414e66d43</update_guid>
+        <update_guid_history>e3baf731e9aed81033b57d5414e66d43:-1531388284</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="React_Demo_2_3.js">2bb0c086dbaed81058317a2faa9619e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 18:57:40</sys_created_on>
+        <sys_db_object display_value="" name="content_css">content_css</sys_db_object>
+        <sys_id>23cd8a7830f44857a5ced0c84571d0e1</sys_id>
+        <sys_metadata>63baf731dbaed81058317a2faa961942</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>React_Demo_2_3.js</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_scope_delete display_value="">37f6335a5c0f4b409815fc187b38c710</sys_scope_delete>
+        <sys_update_name>content_css_63baf731dbaed81058317a2faa961942</sys_update_name>
+        <sys_update_version display_value="content_css_63baf731dbaed81058317a2faa961942">abbaf731dbaed81058317a2faa961943</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 18:57:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

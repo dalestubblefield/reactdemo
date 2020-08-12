@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>2</order>
+        <sp_column/>
+        <sp_container display_value="React Demo - Container 4">8ca49056db2a1010f00d19f05b96193c</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-12 15:03:02</sys_created_on>
+        <sys_id>1ca49056db2a1010f00d19f05b96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_row_1ca49056db2a1010f00d19f05b96195e</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 15:03:02</sys_updated_on>
+    </sp_row>
+</record_update>

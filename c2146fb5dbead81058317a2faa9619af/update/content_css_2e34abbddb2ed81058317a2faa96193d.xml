@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>React_Demo_1.css</name>
+        <style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}code{font-family:source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace}.App{text-align:center}.App-logo{height:40vmin;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{-webkit-animation:App-logo-spin 20s linear infinite;animation:App-logo-spin 20s linear infinite}}.App-header{background-color:#282c34;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:calc(10px + 2vmin);color:#fff}.App-link{color:#61dafb}@-webkit-keyframes App-logo-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes App-logo-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}&#13;
+/*# sourceMappingURL=main.5f361e03.css.map */</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 16:53:44</sys_created_on>
+        <sys_id>2e34abbddb2ed81058317a2faa96193d</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>React_Demo_1.css</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>content_css_2e34abbddb2ed81058317a2faa96193d</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 17:40:58</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>

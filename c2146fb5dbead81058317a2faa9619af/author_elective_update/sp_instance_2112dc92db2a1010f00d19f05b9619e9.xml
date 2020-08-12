@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">011614c6dbeed81058317a2faa9619be</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-12 14:51:56</sys_created_on>
+        <sys_id>2112dc92db2a1010f00d19f05b9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_instance_2112dc92db2a1010f00d19f05b9619e9</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 14:51:56</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=2112dc92db2a1010f00d19f05b9619e9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="React Demo">c2146fb5dbead81058317a2faa9619af</application>
+        <file_path/>
+        <instance_id>a1fc2553db8858d0406350b6f4961917</instance_id>
+        <instance_name>empdstubblefield1</instance_name>
+        <name>sp_instance_2112dc92db2a1010f00d19f05b9619e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">011614c6dbeed81058317a2faa9619be</sp_column><sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>dale.stubblefield</sys_created_by><sys_created_on>2020-08-12 14:51:56</sys_created_on><sys_id>2112dc92db2a1010f00d19f05b9619e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package><sys_policy/><sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope><sys_update_name>sp_instance_2112dc92db2a1010f00d19f05b9619e9</sys_update_name><sys_updated_by>dale.stubblefield</sys_updated_by><sys_updated_on>2020-08-12 14:51:56</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=2112dc92db2a1010f00d19f05b9619e9"/></record_update>]]></payload>
+        <payload_hash>18414657</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8a142bbddb2ed81058317a2faa961974</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-12 14:51:56</sys_created_on>
+        <sys_id>a11210d2db2a1010f00d19f05b9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173e32801770000001</sys_recorded_at>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 14:51:56</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>e91210d2822a10105be09b5bb369e9a6</update_guid>
+        <update_guid_history>e91210d2822a10105be09b5bb369e9a6:18414657</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">8bc2d8d2db2a1010f00d19f05b961985</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-12 14:55:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>67c1c5d40bf342acaf6b3288662ef3a1</sys_id>
+        <sys_metadata>2112dc92db2a1010f00d19f05b9619e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_scope_delete display_value="">37f6335a5c0f4b409815fc187b38c710</sys_scope_delete>
+        <sys_update_name>sp_instance_2112dc92db2a1010f00d19f05b9619e9</sys_update_name>
+        <sys_update_version display_value="sp_instance_2112dc92db2a1010f00d19f05b9619e9">a11210d2db2a1010f00d19f05b9619a7</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 14:55:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

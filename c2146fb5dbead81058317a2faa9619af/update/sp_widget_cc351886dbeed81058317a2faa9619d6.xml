@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+
+	var c = this;
+
+	c.title = "To do app";
+
+  class TodoApp extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { items: [], text: '' };
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  render() {
+    return React.createElement(
+      "div",
+      null,
+      React.createElement(
+        "h3",
+        null,
+        c.title
+      ),
+      React.createElement(TodoList, { items: this.state.items }),
+      React.createElement(
+        "form",
+        { onSubmit: this.handleSubmit },
+        React.createElement(
+          "label",
+          { htmlFor: "new-todo" },
+          "What needs to be done?"
+        ),
+        React.createElement("input", {
+          id: "new-todo",
+          onChange: this.handleChange,
+          value: this.state.text
+        }),
+        React.createElement(
+          "button",
+          null,
+          "Add #",
+          this.state.items.length + 1
+        )
+      )
+    );
+  }
+
+  handleChange(e) {
+    this.setState({ text: e.target.value });
+  }
+
+  handleSubmit(e) {
+    e.preventDefault();
+    if (!this.state.text.length) {
+      return;
+    }
+    const newItem = {
+      text: this.state.text,
+      id: Date.now()
+    };
+    this.setState(state => ({
+      items: state.items.concat(newItem),
+      text: ''
+    }));
+  }
+}
+
+class TodoList extends React.Component {
+  render() {
+    return React.createElement(
+      "ul",
+      null,
+      this.props.items.map(item => React.createElement(
+        "li",
+        { key: item.id },
+        item.text
+      ))
+    );
+  }
+}
+
+ReactDOM.render(React.createElement(TodoApp, null), document.getElementById('todos-example'));
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>label {
+	display: block;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>react_demo</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>React Demo</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 20:27:00</sys_created_on>
+        <sys_id>cc351886dbeed81058317a2faa9619d6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>React Demo</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_widget_cc351886dbeed81058317a2faa9619d6</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 20:29:49</sys_updated_on>
+        <template><![CDATA[<div>
+  <div id="todos-example"/>
+</div>]]></template>
+    </sp_widget>
+</record_update>

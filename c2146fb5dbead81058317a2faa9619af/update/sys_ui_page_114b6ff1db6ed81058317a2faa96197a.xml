@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>true</direct>
+        <endpoint>x_snc_react_demo_react_demo_1.do</endpoint>
+        <html><![CDATA[<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <meta name="theme-color" content="#000000"/>
+        <meta name="description" content="Web site created using create-react-app"/>
+        <link rel="apple-touch-icon" href="/logo192.png"/>
+        <title>React App</title>
+        <link href="/2e34abbddb2ed81058317a2faa96193d.cssdbx" rel="stylesheet"/>
+    </head>
+    <body>
+        <noscript>You need to enable JavaScript to run this app.</noscript>
+        <div id="root"></div>
+        <script src="/58a4abbddb2ed81058317a2faa961953.cssdbx"></script>
+    </body>
+</html>]]></html>
+        <name>react_demo_1</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 17:27:51</sys_created_on>
+        <sys_id>114b6ff1db6ed81058317a2faa96197a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>react_demo_1</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sys_ui_page_114b6ff1db6ed81058317a2faa96197a</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 19:01:21</sys_updated_on>
+    </sys_ui_page>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>react-sp-theme-la-jolla.css</name>
+        <source>local</source>
+        <sp_css display_value="react-sp-theme-la-jolla.css">b22134cadb221c1058317a2faa9619e4</sp_css>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 22:29:15</sys_created_on>
+        <sys_id>7e2134cadb221c1058317a2faa9619e4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>react-sp-theme-la-jolla.css</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_css_include_7e2134cadb221c1058317a2faa9619e4</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 22:29:20</sys_updated_on>
+        <url/>
+    </sp_css_include>
+</record_update>

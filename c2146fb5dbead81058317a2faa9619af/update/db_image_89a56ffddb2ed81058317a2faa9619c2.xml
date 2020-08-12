@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format/>
+        <height/>
+        <image>4dd5affddb2ed81058317a2faa9619f7</image>
+        <name>logo.5d5d9eef.svg</name>
+        <size_bytes>2671</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 16:59:44</sys_created_on>
+        <sys_id>89a56ffddb2ed81058317a2faa9619c2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>logo.5d5d9eef.svg</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>db_image_89a56ffddb2ed81058317a2faa9619c2</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 17:00:05</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <hash>ecc203fbd1d0b912e7653108ff7d6e4f98da8a17b94d9f7045d06eccfad93a85</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2671</size_bytes>
+        <size_compressed>1308</size_compressed>
+        <state>available</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 17:00:05</sys_created_on>
+        <sys_id>4dd5affddb2ed81058317a2faa9619f7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2020-08-11 17:00:05</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>89a56ffddb2ed81058317a2faa9619c2</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="4dd5affddb2ed81058317a2faa9619f7">4dd5affddb2ed81058317a2faa9619f7</sys_attachment>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 17:00:05</sys_created_on>
+        <sys_id>8dd5affddb2ed81058317a2faa9619f7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>VZZLb103DIT3/hXE7VrHeh09CttAg6I7b7svThPHgN0EjmGn/vWdj7pO2yxuZEmkOORweK6+vdzZ98eHv75dnz4/P3/9+fLy9fV1ey3bl6e7yxxjvNSNk73cf3z98OX79SlatFHTNm2f+1ZONxemf1d39un+4eH69FNLv/7y24fzth99/eP5s/15fbptrW3F8mzbfsRQ8raHGrceWtlKSLFsKYy8VUt1q2w2GyHpjxxy1E8qkX1ZlU0HVdf3rYUsExYvWpSjykoBbkUBpiRnWRsJX30blua2W+n6kfm0vuv1tCWbcpGxmIpk10ZmR3+1UPVWVWB6ViHtinObCoUVe7kTjxKhS7q9RxOuFhRqMd3PoTb5HdX//72Pwy0sujPzF+YkmQWrplcL6LqDwp5TXy18ykQXwB1oSbmQa5PrpnyAqYc8rOiQcIpVjDMpwF+t1pQ0z2xKAkzWg+PsQq00z4CLMrZsiZudnCilQZmSX+VqyIVcugfgb02gVE8lqApV0r7C9ye9OEPJVJw5FBXVRIDOc/KqDOmBzEuT4sYsYB7vWooJxTybu8ESslnMWcJZhQCVzRZUV1hisMQdg1N1puBiCYFYxo8vPP22aqn023uCm5F+I/1G+ilJtvfiZHOAwuJJAGBwdwIYAGjFWSuAAJrO1mQt84hSEJ3tjtyXwHt79FvZrQ6xWqZioVKpLmnOeGBMLOkNchwIgE7JqifYA8dpXx0hFpfVQMoGNKaAlcQm8X/qwUohU6QFg3dEOZvzYpFXWVH/4A0iDonKljGTRy4mVdmDViWrTFe86lMww99MWJmuLeLxdg5X7sQWP4+KVaBgkkOsBJE5HJSwczhp14XfsWVXDrKwyFl5TVslhmzVuWsrOCM4EMuSzoM0LIgND40fVUtFXsqQ8LYDv/L8IOEj8B6xEUPmcARvPWJ7eyzeO+XYV/D6iX6HP84O3PMZlxikeNWRYpERepcnvwSF3uummJ3MY2VSca16vN3WjGkt8QgIFKIh8WlEVNAT5VNMNeIYDh6S+xNO2aGcAoKLWrowdjwUc/H0lihZ7OiEsiuAIyzdhWh9W7IgFYROBdu8Ugu4vDgETQ32DO+UdM5trs6/YfNcSodr0BRcpDS1cgiW0YzAogrFo1VQYQaKMBbhXG2BsMRGwAhSNwELBzseis8EW9K8YNkC5aLv9oNgWngPptNMRodNb3HIpv728ldU0hlAdRd1ndOODzkEFtUNq8dmBGsWKw9GQ/W2Ia0FFZxrtUcmFUedKkxuNvv3iPq6IqiJgNKZPGiZ64tnV5SIS9gaQ2kuCRyQpxFPIg+ZQw0ZXqAPIRAzNA8c5rfbIu7WKWoxJYO3HZLClHQRQPu7j4Pp43S6DwMSU3JFUz0DCnq3Ndiiazwr9hbDdiZSAqVP/0arFsZRZoRJR+r6H6lA7+gxiqp6bv3tMReq3cW4A0otlUJjIShTinmu+vgEounQaKaUL9bgDAxOEiQF9plM+2GsHMuUqcrgXErtIg+TKp8daQ2bpJr7INIGdE/QwdVROi9l8A8F13Oo7M0iqYGk3Y3Cvkag66KENVIkmZCwuT51BmLV0ItEDJlDzSnvPX+w+Hxbs5WZV1yHkD/4wySaawWTArd4NBcuNuhX/US199c0wOvb6fI/n2zH/dPx8NEOfe/Ro/Nkx9/XJ/9yO9mTNuXvfwY/vvH2DPnlMf3weHV5d3NxxWfkzcU/TOfO4W8KAAA=</data>
+        <length>1732</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="4dd5affddb2ed81058317a2faa9619f7">4dd5affddb2ed81058317a2faa9619f7</sys_attachment>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 17:00:05</sys_created_on>
+        <sys_id>01d5affddb2ed81058317a2faa9619f8</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>.select2-results .select2-highlighted,&#13;
+.selectize-dropdown .selectize-dropdown-content .active,&#13;
+ul.dropdown-menu li a:hover {&#13;
+  background-color: $btn-primary-bg !important;&#13;
+  color: $input-border-placeholder !important;&#13;
+  &#13;
+  span.text-muted {&#13;
+    color: $input-border-placeholder;&#13;
+  }&#13;
+  &#13;
+  .badge {&#13;
+    color: $input-border-placeholder;&#13;
+    border-color: $input-border-placeholder;&#13;
+    background-color: $btn-primary-bg;&#13;
+  }&#13;
+}&#13;
+&#13;
+// For Service Catalog old categories&#13;
+.panel-default .list-group-item .group-item-primary .badge {&#13;
+    color: $input-border-placeholder;&#13;
+    border-color: $input-border-placeholder;&#13;
+    background-color: $btn-primary-bg;&#13;
+}&#13;
+&#13;
+.select2-container-active .select2-choice,&#13;
+.select2-container-active .select2-choices {&#13;
+  border-color: $input-border-focus !important;&#13;
+}&#13;
+&#13;
+div.sp-page-root .category-widget .category-list &#13;
+  .group-item {&#13;
+	&amp;:focus, &amp;:active {&#13;
+      border: none;&#13;
+      outline: none !important;&#13;
+    }&#13;
+  }&#13;
+  &#13;
+  .group-item-default {&#13;
+      &amp;:hover, &amp;:focus {&#13;
+        background-color: #d1ebe5 !important;&#13;
+        border-left-color: #d1ebe5 !important;&#13;
+      }&#13;
+  }&#13;
+&#13;
+  .list-bg, .list-bg-primary, .list-bg-default  {&#13;
+    background-color: #fff !important;&#13;
+    border-left-color: #fff !important;&#13;
+  }&#13;
+}&#13;
+&#13;
+.btn[name="approve"] {&#13;
+  background-color: $btn-success-bg;&#13;
+  color: $btn-success-color;&#13;
+  border-color: $btn-success-border;&#13;
+&#13;
+  &amp;:hover {&#13;
+    background-color: darken($btn-success-bg, 5%);&#13;
+  }&#13;
+}&#13;
+&#13;
+input:focus {&#13;
+  outline-color: $brand-primary !important;&#13;
+}&#13;
+&#13;
+.selectize-input.focus {&#13;
+  border-color: $input-border-focus !important;&#13;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px $input-border-focus !important;&#13;
+}&#13;
+&#13;
+.selectize-control.multi .selectize-input.items .item.active {&#13;
+  background-color: $brand-primary;&#13;
+}&#13;
+&#13;
+.panel-default .panel-heading, .panel-heading.panel-la-jolla-default {&#13;
+  background-color: $component-active-bg;&#13;
+  color: $component-active-color;&#13;
+  border-color: $sp-b-border-color;&#13;
+  a{&#13;
+    color: $brand-primary-darker;&#13;
+  }&#13;
+}&#13;
+&#13;
+.breadcrumbs-container, .table-striped td, .panel-footer {&#13;
+  a:not(.text-muted):not(.btn) {&#13;
+    color: $brand-primary-darker;&#13;
+  }&#13;
+}&#13;
+.timeline-badge {&#13;
+  &amp;.success {&#13;
+    background-color: $alert-success-bg !important;&#13;
+  }&#13;
+  span {&#13;
+    color: $alert-success-text !important;&#13;
+  }&#13;
+}&#13;
+.avatar-container {&#13;
+  color: $gray;&#13;
+  .avatar .sub-avatar {&#13;
+ 	  background-color: #e5e5e5;&#13;
+  }&#13;
+}&#13;
+.btn[disabled], .btn.disabled {&#13;
+	opacity: .25;&#13;
+}&#13;
+&#13;
+.bootstrap-datetimepicker-widget .active {&#13;
+  background-color: $brand-primary !important;&#13;
+}&#13;
+&#13;
+.slider-track .slider-handle {&#13;
+  background-color: $brand-primary;&#13;
+  background-image: linear-gradient(to bottom, lighten($brand-primary, 5%) 0, $brand-primary 100%);&#13;
+}&#13;
+&#13;
+.bootstrap-datetimepicker-widget td.today:before {&#13;
+  border-bottom-color: $brand-primary;&#13;
+}&#13;
+&#13;
+a.list-group-item {&#13;
+  &amp;.active,&#13;
+  &amp;.active:hover,&#13;
+  &amp;.active:focus {&#13;
+    background-color: #ffffff;&#13;
+    border-color: #dddddd;&#13;
+    font-weight: bold;&#13;
+  }&#13;
+}&#13;
+&#13;
+[accessibility="true"] {&#13;
+  div.sp-page-root, div.modal, div.bootstrap-datetimepicker-widget { // need to put container element in selector to override default highlighting&#13;
+    a:focus,&#13;
+    [role="slider"]:focus,&#13;
+    [role="button"]:focus,&#13;
+    [tabindex="0"]:focus,&#13;
+    input:focus,&#13;
+    .btn:focus,&#13;
+    select:focus,&#13;
+    .selectize-input.focus {&#13;
+      outline: 4px solid $input-border-focus !important; /* IE */&#13;
+      box-shadow: 0px 0px 5px $input-border-focus;&#13;
+      outline: 4px solid $input-border-focus !important; /* FF */&#13;
+      outline: 5px auto $input-border-focus !important; // WebKit Chrome&#13;
+      outline-offset: -2px;&#13;
+      @media not all and (min-resolution:0.001dpcm) {&#13;
+      	outline: 3px solid $input-border-focus !important;&#13;
+      }&#13;
+    }&#13;
+    &#13;
+    .selectize-input.items input {&#13;
+      outline: none !important;&#13;
+      box-shadow: none !important;&#13;
+    }&#13;
+  }&#13;
+  &#13;
+  .select2-search input:focus {&#13;
+  	outline-color: $input-border-focus !important;&#13;
+    box-shadow: 0px 0px 5px $input-border-focus !important;&#13;
+  }&#13;
+}&#13;
+// For Edge and IE-10+ &#13;
+_:-ms-lang(x), .btn:focus {&#13;
+  outline: 3px solid $input-border-focus !important;&#13;
+}&#13;
+</css>
+        <name>react-sp-theme-la-jolla.css</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 22:29:15</sys_created_on>
+        <sys_id>b22134cadb221c1058317a2faa9619e4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>react-sp-theme-la-jolla.css</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_css_b22134cadb221c1058317a2faa9619e4</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 22:29:20</sys_updated_on>
+    </sp_css>
+</record_update>

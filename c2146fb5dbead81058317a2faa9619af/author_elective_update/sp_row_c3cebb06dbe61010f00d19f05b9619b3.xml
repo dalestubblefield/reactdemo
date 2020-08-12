@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="React Demo - Container 1">12ce7b06dbe61010f00d19f05b961942</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-12 13:27:39</sys_created_on>
+        <sys_id>c3cebb06dbe61010f00d19f05b9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_row_c3cebb06dbe61010f00d19f05b9619b3</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 13:27:39</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="React Demo">c2146fb5dbead81058317a2faa9619af</application>
+        <file_path/>
+        <instance_id>a1fc2553db8858d0406350b6f4961917</instance_id>
+        <instance_name>empdstubblefield1</instance_name>
+        <name>sp_row_c3cebb06dbe61010f00d19f05b9619b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="React Demo - Container 1">12ce7b06dbe61010f00d19f05b961942</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>dale.stubblefield</sys_created_by><sys_created_on>2020-08-12 13:27:39</sys_created_on><sys_id>c3cebb06dbe61010f00d19f05b9619b3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package><sys_policy/><sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope><sys_update_name>sp_row_c3cebb06dbe61010f00d19f05b9619b3</sys_update_name><sys_updated_by>dale.stubblefield</sys_updated_by><sys_updated_on>2020-08-12 13:27:39</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>-1122147461</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>8a142bbddb2ed81058317a2faa961974</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-12 13:27:39</sys_created_on>
+        <sys_id>47cebb06dbe61010f00d19f05b9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173e2dad7770000001</sys_recorded_at>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 13:27:39</sys_updated_on>
+        <type>Row</type>
+        <update_guid>8fcebb0652e61010b677a6e3f8178eb4</update_guid>
+        <update_guid_history>8fcebb0652e61010b677a6e3f8178eb4:-1122147461</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">0fc2d8d2db2a1010f00d19f05b961952</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-12 14:55:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>21260776ff8e4af087e9ee2303e07964</sys_id>
+        <sys_metadata>c3cebb06dbe61010f00d19f05b9619b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_scope_delete display_value="">37f6335a5c0f4b409815fc187b38c710</sys_scope_delete>
+        <sys_update_name>sp_row_c3cebb06dbe61010f00d19f05b9619b3</sys_update_name>
+        <sys_update_version display_value="sp_row_c3cebb06dbe61010f00d19f05b9619b3">47cebb06dbe61010f00d19f05b9619b5</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 14:55:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

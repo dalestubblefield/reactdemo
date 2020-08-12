@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>true</direct>
+        <endpoint>x_snc_react_demo_react_demo_2.do</endpoint>
+        <html><![CDATA[<html lang="en">
+    <head>
+        <title>React App 2</title>
+        <div style="display:none">
+            <g:evaluate object="true">var session = gs.getSession(); var token = session.getSessionToken(); if (token=='' || token==undefined) token = gs.getSessionToken();</g:evaluate>
+        </div>
+        <script>window.servicenowUserToken="$[token]"</script>
+        <link href="/5400b3f5db6ed81058317a2faa961902.cssdbx" rel="stylesheet"/>
+    </head>
+    <body>
+        <div id="root"></div>
+        <script scr="/8933400adbaed81058317a2faa961985.cssdbx"></script>
+        <script src="/8c207bf5db6ed81058317a2faa961988.cssdbx"></script>
+        <script src="/1ac77f3ddb6ed81058317a2faa961946.cssdbx"></script>
+    </body>
+</html>]]></html>
+        <name>react_demo_2</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 18:12:17</sys_created_on>
+        <sys_id>6e56f33ddb6ed81058317a2faa96192a</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>react_demo_2</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sys_ui_page_6e56f33ddb6ed81058317a2faa96192a</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-11 19:16:25</sys_updated_on>
+    </sys_ui_page>
+</record_update>

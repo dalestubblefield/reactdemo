@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>React_Demo_2.css</name>
+        <style>ul{list-style-type:none;margin:0;padding:0}li{font:200 20px/2 Helvetica,Verdana,sans-serif;border-bottom:1px solid #ccc}li:last-child{border:none}li:hover{background:#f6f6f6}div{width:700px}h2{font:400 40px/1.5 Helvetica,Verdana,sans-serif;margin:0;padding:0}&#13;
+/*# sourceMappingURL=main.cc9174fd.chunk.css.map */</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 17:44:42</sys_created_on>
+        <sys_id>5400b3f5db6ed81058317a2faa961902</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>React_Demo_2.css</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>content_css_5400b3f5db6ed81058317a2faa961902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 18:14:43</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>

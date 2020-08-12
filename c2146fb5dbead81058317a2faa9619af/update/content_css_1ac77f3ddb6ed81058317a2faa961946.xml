@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>React_Demo_2.main.31c3964c.chunk.js</name>
+        <style>(this.webpackJsonpreact_demo_2=this.webpackJsonpreact_demo_2||[]).push([[0],{14:function(e,t,n){e.exports=n(37)},36:function(e,t,n){},37:function(e,t,n){"use strict";n.r(t);var a=n(1),r=n.n(a),c=n(12),o=n.n(c),u=n(13),l=n(2),i=n.n(l),s=(n(36),function(){var e=Object(a.useState)([]),t=Object(u.a)(e,2),n=t[0],c=t[1];Object(a.useEffect)((function(){i.a.get("/api/now/table/incident?sysparm_limit=10").then((function(e){c(e.data.result)}))}),[]);var o=function(){return r.a.createElement("ul",null,n.map((function(e){return r.a.createElement("li",{key:e.sys_id},e.number,": ",e.short_description)})))};return r.a.createElement("div",null,r.a.createElement("h2",null,"Hello, ServiceNow!"),r.a.createElement(o,null))});i.a.defaults.headers.put["Content-Type"]="application/json",i.a.defaults.headers["X-userToken"]=window.servicenowUserToken,o.a.render(r.a.createElement(s,null),document.getElementById("root"))}},[[14,1,2]]]);&#13;
+//# sourceMappingURL=main.31c3964c.chunk.js.map</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 18:18:32</sys_created_on>
+        <sys_id>1ac77f3ddb6ed81058317a2faa961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>React_Demo_2.main.31c3964c.chunk.js</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>content_css_1ac77f3ddb6ed81058317a2faa961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 18:18:32</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>

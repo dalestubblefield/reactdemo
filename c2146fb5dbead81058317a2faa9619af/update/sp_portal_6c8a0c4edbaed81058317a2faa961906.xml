@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="react_index">b7949cd2db2a1010f00d19f05b9619f7</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="kb_home">e1c919e4dbd3220099f93691f0b8f535</kb_knowledge_page>
+        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page display_value="sc_landing">53261e3487100300e0ef0cf888cb0b7c</sc_catalog_page>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sqanda_knowledge_base display_value="Social QA">5c45a3a0d712120023c84f80de61038b</sqanda_knowledge_base>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-08-11 19:40:37</sys_created_on>
+        <sys_id>6c8a0c4edbaed81058317a2faa961906</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>React Demo</sys_name>
+        <sys_package display_value="React Demo" source="x_snc_react_demo">c2146fb5dbead81058317a2faa9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Demo">c2146fb5dbead81058317a2faa9619af</sys_scope>
+        <sys_update_name>sp_portal_6c8a0c4edbaed81058317a2faa961906</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-08-12 15:03:40</sys_updated_on>
+        <theme display_value="Reach Demo">f35b088edbaed81058317a2faa9619c3</theme>
+        <title>React Demo</title>
+        <ts_index_group/>
+        <url_suffix>rd</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=6c8a0c4edbaed81058317a2faa961906"/>
+</record_update>
